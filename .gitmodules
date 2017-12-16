@@ -1,0 +1,9 @@
+[submodule "src/libxml2"]
+	path = src/libxml2
+	url = https://github.com/Vitallium/conan-libxml2-qt.git
+[submodule "src/icu"]
+	path = src/icu
+	url = https://github.com/Vitallium/conan-icu.git
+[submodule "src/libxslt"]
+	path = src/libxslt
+	url = https://github.com/Vitallium/conan-libxslt.git
